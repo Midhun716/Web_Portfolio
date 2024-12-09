@@ -47,6 +47,7 @@ body {
     top: 0;
     background: rgba(0, 0, 0, 0.7);
     padding: 10px 0;
+    z-index: 1000;
   }
   
   .navbar ul {
